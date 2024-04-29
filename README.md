@@ -9,6 +9,10 @@ Features of this web app:
 
 Web link: https://web-2-5e3a7.web.app
 
+![Screenshot (11)](https://github.com/JacoHg/web_project_1/assets/168348167/1d9ddc35-0900-4efc-a695-2a89bdae4b5d)
+![Screenshot (12)](https://github.com/JacoHg/web_project_1/assets/168348167/3d54a985-7774-4c14-9fda-24241f95d960)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
