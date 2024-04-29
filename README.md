@@ -1,6 +1,13 @@
 # web_project_1
 
-A new Flutter project.
+This is a web app i built while learning flutter, i was specifically focusing on scroll and hover animations,
+
+Features of this web app:
+-A parallax effect while scrolling on home page.
+-Animated containers.
+-Short stories.
+
+Web link: https://web-2-5e3a7.web.app
 
 ## Getting Started
 
