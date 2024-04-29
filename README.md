@@ -7,6 +7,8 @@ Features of this web app:
 -Animated containers.
 -Short stories.
 
+Please note this website was built for desktop web only.
+
 Web link: https://web-2-5e3a7.web.app
 
 ![Screenshot (11)](https://github.com/JacoHg/web_project_1/assets/168348167/1d9ddc35-0900-4efc-a695-2a89bdae4b5d)
